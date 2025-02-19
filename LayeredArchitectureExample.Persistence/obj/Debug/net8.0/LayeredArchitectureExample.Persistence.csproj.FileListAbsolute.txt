@@ -1,0 +1,15 @@
+C:\C#\LayeredArchitectureExample\LayeredArchitectureExample\LayeredArchitectureExample.Persistence\bin\Debug\net8.0\LayeredArchitectureExample.Persistence.deps.json
+C:\C#\LayeredArchitectureExample\LayeredArchitectureExample\LayeredArchitectureExample.Persistence\bin\Debug\net8.0\LayeredArchitectureExample.Persistence.dll
+C:\C#\LayeredArchitectureExample\LayeredArchitectureExample\LayeredArchitectureExample.Persistence\bin\Debug\net8.0\LayeredArchitectureExample.Persistence.pdb
+C:\C#\LayeredArchitectureExample\LayeredArchitectureExample\LayeredArchitectureExample.Persistence\bin\Debug\net8.0\LayeredArchitectureExample.Domain.dll
+C:\C#\LayeredArchitectureExample\LayeredArchitectureExample\LayeredArchitectureExample.Persistence\bin\Debug\net8.0\LayeredArchitectureExample.Domain.pdb
+C:\C#\LayeredArchitectureExample\LayeredArchitectureExample\LayeredArchitectureExample.Persistence\obj\Debug\net8.0\LayeredArchitectureExample.Persistence.csproj.AssemblyReference.cache
+C:\C#\LayeredArchitectureExample\LayeredArchitectureExample\LayeredArchitectureExample.Persistence\obj\Debug\net8.0\LayeredArchitectureExample.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\LayeredArchitectureExample\LayeredArchitectureExample\LayeredArchitectureExample.Persistence\obj\Debug\net8.0\LayeredArchitectureExample.Persistence.AssemblyInfoInputs.cache
+C:\C#\LayeredArchitectureExample\LayeredArchitectureExample\LayeredArchitectureExample.Persistence\obj\Debug\net8.0\LayeredArchitectureExample.Persistence.AssemblyInfo.cs
+C:\C#\LayeredArchitectureExample\LayeredArchitectureExample\LayeredArchitectureExample.Persistence\obj\Debug\net8.0\LayeredArchitectureExample.Persistence.csproj.CoreCompileInputs.cache
+C:\C#\LayeredArchitectureExample\LayeredArchitectureExample\LayeredArchitectureExample.Persistence\obj\Debug\net8.0\LayeredA.C0505C01.Up2Date
+C:\C#\LayeredArchitectureExample\LayeredArchitectureExample\LayeredArchitectureExample.Persistence\obj\Debug\net8.0\LayeredArchitectureExample.Persistence.dll
+C:\C#\LayeredArchitectureExample\LayeredArchitectureExample\LayeredArchitectureExample.Persistence\obj\Debug\net8.0\refint\LayeredArchitectureExample.Persistence.dll
+C:\C#\LayeredArchitectureExample\LayeredArchitectureExample\LayeredArchitectureExample.Persistence\obj\Debug\net8.0\LayeredArchitectureExample.Persistence.pdb
+C:\C#\LayeredArchitectureExample\LayeredArchitectureExample\LayeredArchitectureExample.Persistence\obj\Debug\net8.0\ref\LayeredArchitectureExample.Persistence.dll

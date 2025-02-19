@@ -1,0 +1,12 @@
+C:\C#\LayeredArchitectureExample\LayeredArchitectureExample\LayeredArchitectureExample.Domain\bin\Debug\net8.0\LayeredArchitectureExample.Domain.deps.json
+C:\C#\LayeredArchitectureExample\LayeredArchitectureExample\LayeredArchitectureExample.Domain\bin\Debug\net8.0\LayeredArchitectureExample.Domain.dll
+C:\C#\LayeredArchitectureExample\LayeredArchitectureExample\LayeredArchitectureExample.Domain\bin\Debug\net8.0\LayeredArchitectureExample.Domain.pdb
+C:\C#\LayeredArchitectureExample\LayeredArchitectureExample\LayeredArchitectureExample.Domain\obj\Debug\net8.0\LayeredArchitectureExample.Domain.csproj.AssemblyReference.cache
+C:\C#\LayeredArchitectureExample\LayeredArchitectureExample\LayeredArchitectureExample.Domain\obj\Debug\net8.0\LayeredArchitectureExample.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\LayeredArchitectureExample\LayeredArchitectureExample\LayeredArchitectureExample.Domain\obj\Debug\net8.0\LayeredArchitectureExample.Domain.AssemblyInfoInputs.cache
+C:\C#\LayeredArchitectureExample\LayeredArchitectureExample\LayeredArchitectureExample.Domain\obj\Debug\net8.0\LayeredArchitectureExample.Domain.AssemblyInfo.cs
+C:\C#\LayeredArchitectureExample\LayeredArchitectureExample\LayeredArchitectureExample.Domain\obj\Debug\net8.0\LayeredArchitectureExample.Domain.csproj.CoreCompileInputs.cache
+C:\C#\LayeredArchitectureExample\LayeredArchitectureExample\LayeredArchitectureExample.Domain\obj\Debug\net8.0\LayeredArchitectureExample.Domain.dll
+C:\C#\LayeredArchitectureExample\LayeredArchitectureExample\LayeredArchitectureExample.Domain\obj\Debug\net8.0\refint\LayeredArchitectureExample.Domain.dll
+C:\C#\LayeredArchitectureExample\LayeredArchitectureExample\LayeredArchitectureExample.Domain\obj\Debug\net8.0\LayeredArchitectureExample.Domain.pdb
+C:\C#\LayeredArchitectureExample\LayeredArchitectureExample\LayeredArchitectureExample.Domain\obj\Debug\net8.0\ref\LayeredArchitectureExample.Domain.dll

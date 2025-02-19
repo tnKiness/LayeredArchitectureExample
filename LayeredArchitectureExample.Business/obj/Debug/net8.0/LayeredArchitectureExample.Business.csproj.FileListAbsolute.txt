@@ -1,0 +1,17 @@
+C:\C#\LayeredArchitectureExample\LayeredArchitectureExample\LayeredArchitectureExample.Business\bin\Debug\net8.0\LayeredArchitectureExample.Business.deps.json
+C:\C#\LayeredArchitectureExample\LayeredArchitectureExample\LayeredArchitectureExample.Business\bin\Debug\net8.0\LayeredArchitectureExample.Business.dll
+C:\C#\LayeredArchitectureExample\LayeredArchitectureExample\LayeredArchitectureExample.Business\bin\Debug\net8.0\LayeredArchitectureExample.Business.pdb
+C:\C#\LayeredArchitectureExample\LayeredArchitectureExample\LayeredArchitectureExample.Business\bin\Debug\net8.0\LayeredArchitectureExample.Domain.dll
+C:\C#\LayeredArchitectureExample\LayeredArchitectureExample\LayeredArchitectureExample.Business\bin\Debug\net8.0\LayeredArchitectureExample.Persistence.dll
+C:\C#\LayeredArchitectureExample\LayeredArchitectureExample\LayeredArchitectureExample.Business\bin\Debug\net8.0\LayeredArchitectureExample.Domain.pdb
+C:\C#\LayeredArchitectureExample\LayeredArchitectureExample\LayeredArchitectureExample.Business\bin\Debug\net8.0\LayeredArchitectureExample.Persistence.pdb
+C:\C#\LayeredArchitectureExample\LayeredArchitectureExample\LayeredArchitectureExample.Business\obj\Debug\net8.0\LayeredArchitectureExample.Business.csproj.AssemblyReference.cache
+C:\C#\LayeredArchitectureExample\LayeredArchitectureExample\LayeredArchitectureExample.Business\obj\Debug\net8.0\LayeredArchitectureExample.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\LayeredArchitectureExample\LayeredArchitectureExample\LayeredArchitectureExample.Business\obj\Debug\net8.0\LayeredArchitectureExample.Business.AssemblyInfoInputs.cache
+C:\C#\LayeredArchitectureExample\LayeredArchitectureExample\LayeredArchitectureExample.Business\obj\Debug\net8.0\LayeredArchitectureExample.Business.AssemblyInfo.cs
+C:\C#\LayeredArchitectureExample\LayeredArchitectureExample\LayeredArchitectureExample.Business\obj\Debug\net8.0\LayeredArchitectureExample.Business.csproj.CoreCompileInputs.cache
+C:\C#\LayeredArchitectureExample\LayeredArchitectureExample\LayeredArchitectureExample.Business\obj\Debug\net8.0\LayeredA.7B3D1927.Up2Date
+C:\C#\LayeredArchitectureExample\LayeredArchitectureExample\LayeredArchitectureExample.Business\obj\Debug\net8.0\LayeredArchitectureExample.Business.dll
+C:\C#\LayeredArchitectureExample\LayeredArchitectureExample\LayeredArchitectureExample.Business\obj\Debug\net8.0\refint\LayeredArchitectureExample.Business.dll
+C:\C#\LayeredArchitectureExample\LayeredArchitectureExample\LayeredArchitectureExample.Business\obj\Debug\net8.0\LayeredArchitectureExample.Business.pdb
+C:\C#\LayeredArchitectureExample\LayeredArchitectureExample\LayeredArchitectureExample.Business\obj\Debug\net8.0\ref\LayeredArchitectureExample.Business.dll
